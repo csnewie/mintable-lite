@@ -51,7 +51,7 @@ password = Test1234
 
 ## Overview
 Video preview:
-https://streamable.com/e/bnr5s
+[https://streamable.com/e/bnr5s](https://streamable.com/bnr5ss?src=player-page-share)
 
 Structure overview:
 <img width="626" alt="Screenshot 2023-10-18 at 8 03 51 AM" src="https://github.com/csnewie/mintable-lite/assets/30197268/85ac94d1-953b-43c2-84ad-c24b2258dbd2">
