@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-# mintable-lite
+# mintable-lite pseudo backend
 
 To run pocketbase which is the stand in backend used for this project:
 
@@ -48,3 +48,7 @@ cd pockerbase_0
 Though the register hook is there, it wasn't integrated so do use the following test credetials to login:
 username = ppch09@gmail.com
 password = Test1234
+
+## Overview
+
+## To work on
