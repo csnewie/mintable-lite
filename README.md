@@ -51,4 +51,11 @@ password = Test1234
 
 ## Overview
 
+<img width="626" alt="Screenshot 2023-10-18 at 8 03 51 AM" src="https://github.com/csnewie/mintable-lite/assets/30197268/85ac94d1-953b-43c2-84ad-c24b2258dbd2">
+
 ## To work on
+
+- Finish typing the componets and use dynamic data instead of hardcoded template examples
+- Try using opensea api to retrive nft collections for the particular wallet and display (is there an alternative to this for ethersjs)
+- Currently using ContextAPI but would prefer to use Redux when scaling (will help with the multiple re-renders when only selective states are needed)
+- Adding in the user registeration parts
